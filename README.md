@@ -7,5 +7,4 @@ When finalised the order the shopkeeper has to enter the customer details name a
 Now in the customer record window if the shopkeepr enters the name and phone of that particular person 
 that person's purchase record will be displayed and if the customer has not paid it will tell the shopkeeper that he/she has not paid the amount.
 The program also provides the profit loss calculator which displays the shopkeeper profit for particular date by selecting it from the calendar.
-At last the programs provides the shopkeeper to add items in his stock , where the shopkeeper will enter the item in item name box and is the corresponding item alaready exists it will show the it in combo box and the quantity
-of previous item will be increasedand if the item does not previously exists new itwm will be added.
+At last the programs provides the shopkeeper to add items in his stock , where the shopkeeper will enter the item in item name box and is the corresponding item alaready exists it will show the it in combo box and the quantity of previous item will be increased and if the item does not previously exists new item will be added.
