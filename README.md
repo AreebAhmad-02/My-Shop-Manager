@@ -1,6 +1,6 @@
 # My-Shop-Manager
 The program uses file handling and is buit considering the local machine of shopkeeper.
-The program provides login nd signup page, for multiple shopkeepers in the shop can use this program.
+The program provides login and signup page, for multiple shopkeepers in the shop can use this program.
 The program provides the dynamic search option where the shopkeeper can search the item and add it into cart.
 Similarly the cart can be viewed and the items can be removed from the cart and order can be finalised accordingly.
 When finalised the order the shopkeeper has to enter the customer details name and Phone Number, so now the customer record is saved.
